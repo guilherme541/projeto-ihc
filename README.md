@@ -8,7 +8,7 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Uma
 - Guilherme Couto Goms RA: 22.122.035-3
 - Lucas Dias Batista RA: 22.122.065-0
 - Pedro Henrique Algodoal Pinto RA: 22.122.072-6
-- samir Oliveira Costa RA: 22.122.030-4
+- Samir Oliveira Costa RA: 22.122.030-4
 
 ## Resumo
 Segurança em canteiros de obras é comprometida pela complexa interação entre operários e equipamentos, exigindo monitoramento constante. O desafio está em identificar riscos em tempo real, o que requer análise tridimensional de múltiplas perspectivas aéreas. Para isso, o trabalho propõe uma metodologia inovadora baseada em visão computacional e aprendizado profundo, utilizando drones (VANTs) para analisar vídeos e detectar situações perigosas, emitindo alertas preventivos para evitar acidentes.
