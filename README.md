@@ -2,14 +2,16 @@
 
 Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Interface Humano-Computador (CC8122) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel) e Prof. Dr. Plino Thomaz Aquino Junior.
 
-Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Título do TCC** sob orientação do Professor **Nome do Orientador** e desenvolvido pelos seguintes alunos:
+Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Uma Metodologia Baseada em Redes Neurais Profundas e videos de VANTs para Análise de Segurança em Ambientes de Canteiros de Obra na Construção Civil.** sob orientação do Professor **Gabriela Biondi** e desenvolvido pelos seguintes alunos:
 
-- Nome Componente 1
-- Nome Componente 2
-- Nome Componente 3
+- Caio de Souza Conceicão RA: 22.122.033-8
+- Guilherme Couto Goms RA: 22.122.035-3
+- Lucas Dias Batista RA: 22.122.065-0
+- Pedro Henrique Algodoal Pinto RA: 22.122.072-6
+- samir Oliveira Costa RA: 22.122.030-4
 
 ## Resumo
-
+Segurança em canteiros de obras é comprometida pela complexa interação entre operários e equipamentos, exigindo monitoramento constante. O desafio está em identificar riscos em tempo real, o que requer análise tridimensional de múltiplas perspectivas aéreas. Para isso, o trabalho propõe uma metodologia inovadora baseada em visão computacional e aprendizado profundo, utilizando drones (VANTs) para analisar vídeos e detectar situações perigosas, emitindo alertas preventivos para evitar acidentes.
 
 ## Introdução
 
