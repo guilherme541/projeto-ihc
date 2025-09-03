@@ -29,13 +29,13 @@ Usuário final: Empresas de construção civil, equipes de segurança do trabalh
  Redução de acidentes de trabalho através de monitoramento automatizado  
  Otimização da alocação de recursos de segurança baseada em dados reais  
  Identificação proativa de situações de risco antes que se tornem acidentes  
- Melhoria do cumprimento de normas de segurança no canteiro  
+ Melhoria do cumprimento de normas de segurança no canteiro    
 
 - Apresente as funcionalidades.
   
- Detecção e reconhecimento de objetos na cena
- Armazenamento e sincronização de dados
- Geração de relatórios de segurança (não está no escopo do TCC)
+ Detecção e reconhecimento de objetos na cena   
+ Armazenamento e sincronização de dados   
+ Geração de relatórios de segurança (não está no escopo do TCC)    
  ```diff
 ! TO-DO
 ```
