@@ -54,23 +54,60 @@ Canteiros de obras de construção civil onde há necessidade de monitoramento c
 O sistema foi inicialmente concebido para funcionar de forma automatizada, gerando apenas dados para análise posterior, **sem necessidade de interface para o usuário final**.
 
 
-## Público Alvo
+# Público-Alvo
 
-Grupo Específico de Pessoas ou Organizações para as quais este produto ou serviço é direcionado
+Grupo Específico de Pessoas ou Organizações para as quais este produto ou serviço é direcionado:
 
-- Gerentes de Segurança do Trabalho em empresas de construção civil de médio e grande porte
-- Engenheiros de Segurança responsáveis pelo cumprimento de normas regulamentadoras
-- Gestores de Obras e Projetos que buscam otimizar operações e reduzir custos com acidentes
+- **Gerentes de Segurança do Trabalho** em empresas de construção civil de médio e grande porte  
+- **Engenheiros de Segurança** responsáveis pelo cumprimento de normas regulamentadoras  
+- **Gestores de Obras e Projetos** que buscam otimizar operações e reduzir custos com acidentes  
 
-Público Secundário
+## Público Secundário
 
-- Seguradoras que oferecem cobertura para acidentes de trabalho na construção civil
-- Consultorias em Segurança do Trabalho especializadas no setor da construção
+- **Seguradoras** que oferecem cobertura para acidentes de trabalho na construção civil  
+- **Consultorias em Segurança do Trabalho** especializadas no setor da construção  
 
-Descreva as caracteristicas demográficas, comportamentais, psicográficas ou geográficas deste público alvo que o torna mais propenso a se interessar pelo que está sendo oferecido neste projeto ou serviço.
- ```diff
-! TO-DO
-```
+---
+
+## Características do Público-Alvo
+
+### Demográficas
+- **Idade:** 25 a 55 anos  
+- **Cargo/Função:** Profissionais experientes em liderança (Engenharia Civil, Segurança do Trabalho, Administração)  
+- **Atuação:** Posições de gestão e tomada de decisão em segurança e operações  
+
+### Geográficas
+- **Localização:** Grandes centros urbanos com alta atividade de construção civil  
+- **Regiões prioritárias:** Sudeste (SP, RJ, MG) e Sul (RS, SC, PR) — maior concentração de obras  
+- **Contexto regional:** Áreas com intensa fiscalização trabalhista e elevada densidade de projetos  
+
+### Comportamentais
+- **Adoção de tecnologia:** Abertos a soluções inovadoras que comprovem ROI  
+- **Processo de decisão:** Baseado em dados, análise de custo-benefício e conformidade regulatória  
+- **Frequência de investimento:** Ciclos de médio a longo prazo (2–5 anos)  
+
+### Psicográficas
+- **Valores centrais:** Segurança, conformidade regulatória, eficiência operacional, responsabilidade corporativa-social  
+- **Motivações principais:**
+  - Evitar multas e penalidades regulamentares  
+  - Reduzir custos com acidentes e afastamentos  
+  - Melhorar reputação e imagem corporativa  
+  - Cumprir metas de sustentabilidade e práticas ESG  
+- **Preocupações primárias:**
+  - Cumprimento rigoroso das normas  
+  - Redução de passivos trabalhistas  
+  - Pressão de stakeholders (investidores, seguradoras, clientes)  
+
+---
+
+## Fatores de Propensão ao Interesse
+
+- **Pressão regulatória crescente:** Intensificação da fiscalização e aumento de multas  
+- **Alto custo de acidentes:** Indenizações, processos e afastamentos pesam no orçamento  
+- **Necessidade de certificações:** ISO 45001, OHSAS 18001 como requisitos em licitações  
+- **Competitividade de mercado:** Segurança como diferencial competitivo  
+- **Escassez de recursos:** Falta de profissionais qualificados para monitoramento manual  
+- **Pressão ESG:** Exigência crescente por práticas ambientais, sociais e de governança responsáveis
 
 ## Análise de concorrência
 
