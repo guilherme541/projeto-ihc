@@ -74,6 +74,15 @@ Descreva as caracteristicas demográficas, comportamentais, psicográficas ou ge
 
 ## Análise de concorrência
 
+ ```diff
+! TO-DO
+! Condor CFTV
+! Segware
+! Monuv
+! Seventh
+! veesion
+```
+
 1. Identifique os principais concorrentes ou softwares mais utilizados pelo seu público-alvo.
 2. Colete informações sobre os concorrentes selecionados.
 3. Analise as características e funcionalidades dos concorrentes.
