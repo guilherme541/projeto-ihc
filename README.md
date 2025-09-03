@@ -15,20 +15,62 @@ Segurança em canteiros de obras é comprometida pela complexa interação entre
 
 ## Introdução
 
-Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
 - Apresente uma breve descrição.
-- Apresente o objetivo. 
+- Apresente o objetivo.
+  
+O projeto consiste no desenvolvimento de um sistema de monitoramento de segurança para canteiros de obras, focando na detecção de situações de risco em tempo real através de análise visual automatizada. O sistema utiliza algoritmos de visão computacional e aprendizado de máquina para identificar objetos e pessoas em cenas de construção, analisando vídeos capturados por drones (VANTs) para detectar condições potencialmente perigosas. O objetivo principal é fornecer às empresas de construção civil uma ferramenta capaz de monitorar continuamente as atividades do canteiro, identificar riscos de segurança de forma automatizada, e auxiliar na prevenção de acidentes de trabalho. Além disso, focado na disciplina de Interface Humano-Computador, aumentamos o escopo do projeto para trabalhar também com a análise dos dados capturados e a geração de relatórios a partir destes.
+
 - Apresente o usuário final.
+  
+Usuário final: Empresas de construção civil, equipes de segurança do trabalho e gestores de obras.
+
 - Apresente os principais benefícios para o usuários.
+  
+ Redução de acidentes de trabalho através de monitoramento automatizado  
+ Otimização da alocação de recursos de segurança baseada em dados reais  
+ Identificação proativa de situações de risco antes que se tornem acidentes  
+ Melhoria do cumprimento de normas de segurança no canteiro  
+
 - Apresente as funcionalidades.
+  
+ Detecção e reconhecimento de objetos na cena
+ Armazenamento e sincronização de dados
+ Geração de relatórios de segurança (não está no escopo do TCC)
+ ```diff
+! TO-DO
+```
+
 - Apresente as tecnologias e ferramentas computacionais utilizadas.
+ ```diff
+! TO-DO
+```
+
 - Apresente o contexto de uso.
+  
+Canteiros de obras de construção civil onde há necessidade de monitoramento contínuo de segurança, com foco na prevenção de acidentes através de análise de vídeos aéreos.
+
 - O produto ou serviço prevê o desenvolvimento de interface? (Sim/Não)
+  
+O sistema foi inicialmente concebido para funcionar de forma automatizada, gerando apenas dados para análise posterior, **sem necessidade de interface para o usuário final**.
 
-## Publico Alvo
 
-- Determine qual o grupo específico de pessoas ou organizações para as quais este produto ou serviço é direcionado.
-- Descreva as caracteristicas demográficas, comportamentais, psicográficas ou geográficas deste público alvo que o torna mais propenso a se interessar pelo que está sendo oferecido neste projeto ou serviço.
+## Público Alvo
+
+Grupo Específico de Pessoas ou Organizações para as quais este produto ou serviço é direcionado
+
+- Gerentes de Segurança do Trabalho em empresas de construção civil de médio e grande porte
+- Engenheiros de Segurança responsáveis pelo cumprimento de normas regulamentadoras
+- Gestores de Obras e Projetos que buscam otimizar operações e reduzir custos com acidentes
+
+Público Secundário
+
+- Seguradoras que oferecem cobertura para acidentes de trabalho na construção civil
+- Consultorias em Segurança do Trabalho especializadas no setor da construção
+
+Descreva as caracteristicas demográficas, comportamentais, psicográficas ou geográficas deste público alvo que o torna mais propenso a se interessar pelo que está sendo oferecido neste projeto ou serviço.
+ ```diff
+! TO-DO
+```
 
 ## Análise de concorrência
 
@@ -113,3 +155,12 @@ Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
 <!-- TODOs:
 - Add exemplos
  -->
+
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
