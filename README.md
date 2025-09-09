@@ -209,9 +209,6 @@ A Seventh é respeitada no Brasil por sua confiabilidade e integração do D-Gua
 A Veesion é muito elogiada pela inovação em IA e pela eficácia na redução de perdas no varejo. As principais críticas apontam para o custo elevado, que a torna restrita a grandes empresas.
 
 
- ```diff
-! TO-DO
-```
 ## Identifique padrões e tendências no mercado.
 
 - **Inteligência Artificial como diferencial competitivo**: todos os players integram IA para automação do monitoramento, análise de vídeo e alertas em tempo real.  
